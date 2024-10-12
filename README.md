@@ -14,7 +14,7 @@ git branch -a
 ### 変更したら
 ```
 git add 対象ファイル
-git commit ''メッセージ'
+git commit 'メッセージ'
 git push -u origin branch名
 ```
 
